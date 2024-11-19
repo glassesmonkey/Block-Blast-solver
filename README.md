@@ -1,6 +1,5 @@
 # Block Blast Solver - Your Ultimate Block Puzzle Game Assistant
 
-[![Block Blast Solver](https://cdn.blockblastgame.net/new-world-record-93204.webp)](https://blockblastsolver.online/)
 
 Block Blast Solver is an advanced online tool designed to help you master the Block Blast puzzle game. Whether you're stuck on a challenging level or aiming for high scores, our intelligent solver provides optimal solutions and strategic guidance to enhance your gameplay.
 
@@ -89,3 +88,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 [Visit Block Blast Solver](https://blockblastsolver.online) 
+[![Block Blast Solver](https://cdn.blockblastgame.net/new-world-record-93204.webp)](https://blockblastsolver.online/)
+
